@@ -9,3 +9,4 @@ for k,v in em_details.items():
         print(max(v))
         print(sum(v))
         print(max(v))
+        print(min(v))
